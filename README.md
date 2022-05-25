@@ -1,6 +1,6 @@
 ### 1. Create .env file
 - Create .env file in project folder
-- Enter these lines to that:
+- Enter these lines to that after creating the database:
 
 ```
 MONGODB_URL=mongodb://localhost/JonasShop
